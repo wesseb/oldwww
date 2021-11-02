@@ -1,0 +1,46 @@
+#CU3ER {
+	border-width: thick;
+	border-style: outset;
+	border-color: white;
+}
+
+#links {
+	color: #ffffff;
+	text-align: right;
+	font-weight: bold;
+}
+
+#logo {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#menu {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#done {
+	color: #00ff00;
+	font-weight: bold;
+}
+
+#registerpanel {
+	color: #ffffff;
+	border-width: thick;
+	border-style: outset;
+	border-color: red;
+}
+
+#stopka {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#Error {
+	color: #ff0000;
+	font-weight: bold;
+	border-width: thick;
+	border-style: inset;
+	border-color: blue;
+}
